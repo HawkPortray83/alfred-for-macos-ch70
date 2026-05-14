@@ -1,4 +1,4 @@
-#  
+#  Get the ultimate Alfred for macOS script with Alfred for macOS vip Script: real-time editing & version history. Featuring real-time editing and version history, it's the best
 
 
 
